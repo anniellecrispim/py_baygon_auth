@@ -29,7 +29,7 @@ def generate_user_data() -> dict:
 
     return data
 
-def createUserAPI(user: dict ) -> None:
+def create_user_api(user: dict ) -> None:
     try:
         response = requests.post(f'{BASEURL}/api/{USERS}/', data=user)
         #uma requisição malfeita (resposta que não tenha código 200), levanta uma exceção
@@ -41,7 +41,7 @@ def createUserAPI(user: dict ) -> None:
         print(f'Usuário criado com sucesso!')
 
 
-def saveResponseJson(login_response: dict) -> None:
+def save_response_json(login_response: dict) -> None:
     try:
         with open('login_response.json', 'w') as file_json:
             json.dump(login_response, file_json, indent = 4)
@@ -63,7 +63,7 @@ def login_user(user_data: dict) -> None:
     except requests.exceptions.HTTPError as error:
         print(f"Erro: {error}")
     else:
-        saveResponseJson(response.json())
+        save_response_json(response.json())
 
 def main() -> None:
   user_data = generate_user_data()
@@ -72,7 +72,7 @@ def main() -> None:
   for key,value in user_data.items():
       print(f'{key}: {value}')
   
-  createUserAPI(user_data)
+  create_user_api(user_data)
   login_user(user_data)
 
 if __name__ == '__main__': 
