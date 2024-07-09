@@ -54,7 +54,7 @@ Agradecemos imensamente as pessoas que fizeram esse projeto acontecer: o nosso q
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="Foto da Annielle">
+      <a href="https://github.com/anniellecrispim" title="GitHub da Annielle">
         <img src="https://avatars.githubusercontent.com/anniellecrispim" width="100px;" alt="Foto da Annielle Crispim no GitHub"/><br>
         <sub>
           <b>Annielle Crispim</b>
@@ -62,7 +62,7 @@ Agradecemos imensamente as pessoas que fizeram esse projeto acontecer: o nosso q
       </a>
     </td>
     <td align="center">
-      <a href="#" title="Foto do Caio">
+      <a href="https://github.com/caiobarreto0" title="GitHub do Caio">
         <img src="https://avatars.githubusercontent.com/caiobarreto0" width="100px;" alt="Foto do Caio Barreto no GitHub"/><br>
         <sub>
           <b>Caio Barreto</b>
@@ -70,7 +70,7 @@ Agradecemos imensamente as pessoas que fizeram esse projeto acontecer: o nosso q
       </a>
     </td>
      <td align="center">
-      <a href="#" title="Foto da Julia">
+      <a href="https://github.com/juliarobaina" title="GitHub da Julia">
         <img src="https://avatars.githubusercontent.com/juliarobaina" width="100px;" alt="Foto da Julia Robaina no GitHub"/><br>
         <sub>
           <b>Julia Robaina</b>
@@ -78,7 +78,7 @@ Agradecemos imensamente as pessoas que fizeram esse projeto acontecer: o nosso q
       </a>
     </td>
     <td align="center">
-      <a href="#" title="Foto do Vitor">
+      <a href="https://github.com/Vitor-Back" title="GitHub do Vitor">
         <img src="https://avatars.githubusercontent.com/Vitor-Back" width="100px;" alt="Foto do Vitor Back no GitHub"/><br>
         <sub>
           <b>Vitor Back</b>
@@ -86,7 +86,7 @@ Agradecemos imensamente as pessoas que fizeram esse projeto acontecer: o nosso q
       </a>
     </td>
     <td align="center">
-      <a href="#" title="Foto da Tamires">
+      <a href="https://github.com/tamiresana" title="GitHub da Tamires">
         <img src="https://avatars.githubusercontent.com/tamiresana" width="100px;" alt="Foto da Tamires Ana no GitHub"/><br>
         <sub>
           <b>Tamires Ana</b>
@@ -162,7 +162,7 @@ Gostariamos de agradecer a essa turma que nos deu oportunidade e fez parte da no
       <a href="https://www.linkedin.com/in/j%C3%A9ssica-nunes16/" title="Perfil da Jessica no LinkedIn">
       <img src="https://media.licdn.com/dms/image/D4D03AQEpmPJ0ZDFJIQ/profile-displayphoto-shrink_800_800/0/1687979621628?e=1726099200&v=beta&t=EO7t17BnVVLT8zwd0jGHPjiBG3t-4MrhoaSn7nfSoQU" width="100px;" alt="Foto da Jessica Nunes no LinkedIn"/><br>
      <sub>
-       <b>Jessica Nunces</b>
+       <b>Jessica Nunes</b>
      </sub>
    </a>
  </td>
