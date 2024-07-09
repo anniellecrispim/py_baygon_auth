@@ -27,7 +27,8 @@ O projeto está finalizado e as próximas atualizações serão voltadas nas seg
 
 > Geração de Dados Aleatórios
 - Uso da biblioteca FAKER para criar o usuário aleatório;
-- Uso do método .split para separar separar o que estava separado na quebra de linha por hífen (-) na mesma linha.
+- Uso do método .split para separar a string de endereço criada pela biblioteca faker ao encontrar uma quebra de linha (\n);
+- Uso do método .join para unir a string separada utilizando hífen (-).
 
 > Salvamento do arquivo JSON
 - "Ident 4" para o JSON não salvar em uma só linha.
